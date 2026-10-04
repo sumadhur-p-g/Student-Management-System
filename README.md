@@ -2,6 +2,12 @@
 
 A console-based Student Management System developed using **C++**. The project allows users to add, view, search, update, and delete student records while also providing class statistics and sorting functionality.
 
+## Project Demo
+
+The following screenshot shows the Student Management System running in the terminal.
+
+![Student Management System](student-management-system.png)
+
 ## Features
 
 * Add new student records
